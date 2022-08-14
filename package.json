@@ -10,6 +10,7 @@
     "code w/ node",
     "npm > yarn"
   ],
+  "license": "MIT",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
