@@ -5,6 +5,11 @@
   },
   "author": "yasmin",
   "description": "json is cool",
+  "keywords": [
+    "freecodecamp",
+    "code w/ node",
+    "npm > yarn"
+  ],
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
